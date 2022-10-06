@@ -1,4 +1,11 @@
-# Salesforce API Connection Test
+###############################################################################
+# Script name: code.py
+# Purpose: Salesforce API Connection Test
+# Author: Phillip Hungerford
+# Date Created: 2022-10-06
+# Email: phillip.hungerford@gmail.com
+###############################################################################
+
 # =============================================================================
 # STEP 1: Make sure you have salesforce installed and load the package
 # =============================================================================
